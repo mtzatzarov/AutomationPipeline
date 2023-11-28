@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9J+R9mfsLvSgMCLqyAxzdl/EStWRdwEzQqiFLVaN9rtwYp+kC5phzLL8hsOLMvtMGL2Cv9nkOXS9B+VAZIJLQ==",
+  "dgSpecHash": "5VTdX7FgJN7UNOpuoVIqVo/uuwCtsQAi36h1C9ftAZBQEdCPz6UK1VjHploe28MNPXBjBGxRQ6QBbZl0Ysu/9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\z003mz5r\\Documents\\VSCode\\TestAutomation\\CalculatorApp\\CalculatorApp.csproj",
+  "projectFilePath": "C:\\Users\\z003mz5r\\Documents\\Git\\AutomationPipeline\\CalculatorApp\\CalculatorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

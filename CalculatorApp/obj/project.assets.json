@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\z003mz5r\\Documents\\VSCode\\TestAutomation\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\z003mz5r\\Documents\\Git\\AutomationPipeline\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "C:\\Users\\z003mz5r\\Documents\\VSCode\\TestAutomation\\CalculatorApp\\CalculatorApp.csproj",
+      "projectPath": "C:\\Users\\z003mz5r\\Documents\\Git\\AutomationPipeline\\CalculatorApp\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\z003mz5r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\z003mz5r\\Documents\\VSCode\\TestAutomation\\CalculatorApp\\obj\\",
+      "outputPath": "C:\\Users\\z003mz5r\\Documents\\Git\\AutomationPipeline\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\z003mz5r\\AppData\\Roaming\\NuGet\\NuGet.Config"
