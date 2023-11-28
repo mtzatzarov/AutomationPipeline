@@ -2,7 +2,7 @@
     "AddAndLogTest": {
       "a": 3,
       "b": 7,
-      "expectedResult": 11
+      "expectedResult": 10
     },
     "SubtractAndLogTest": {
       "a": 10,
