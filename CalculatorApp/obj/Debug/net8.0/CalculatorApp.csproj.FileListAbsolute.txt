@@ -1,0 +1,15 @@
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+c:\Users\z003mz5r\Documents\VSCode\TestAutomation\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
