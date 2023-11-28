@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: 'Get Configuration File'
       run: |-
-         cp -f config.json /config.json        
+         cp -f config.json ./config.json        
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
